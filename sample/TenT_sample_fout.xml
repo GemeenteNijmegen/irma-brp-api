@@ -1,0 +1,2165 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns2:gbavAntwoord xmlns:ns2="http://www.competent.nl/gbav/v1">
+         <identificatie>
+            <indicatie>990022</indicatie>
+            <interneAfnemer/>
+            <gebruiker>beheerder</gebruiker>
+            <profielNaam>autorisatie</profielNaam>
+            <internKenmerk/>
+         </identificatie>
+         <resultaten>
+            <persoon>
+               <categorieen>
+                  <categorie>
+                     <nummer>01</nummer>
+                     <naam>Persoon</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>3074698936</waarde>
+                           <omschrijving>3074698936</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0120</nummer>
+                           <naam>BSN</naam>
+                           <waarde>302953917</waarde>
+                           <omschrijving>302953917</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Christina</waarde>
+                           <omschrijving>Christina</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Deutekom</waarde>
+                           <omschrijving>Deutekom</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19450312</waarde>
+                           <omschrijving>12-03-1945</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>0400</waarde>
+                           <omschrijving>Den Helder</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>6030</waarde>
+                           <omschrijving>Nederland</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0410</nummer>
+                           <naam>Geslachtsaanduiding</naam>
+                           <waarde>V</waarde>
+                           <omschrijving>Vrouw</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6110</nummer>
+                           <naam>Aanduiding naamgebruik</naam>
+                           <waarde>E</waarde>
+                           <omschrijving>Eigen naam</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0226</waarde>
+                           <omschrijving>Duiven</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>19940501</waarde>
+                           <omschrijving>01-05-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>PKA</waarde>
+                           <omschrijving>PKA</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19650612</waarde>
+                           <omschrijving>12-06-1965</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19951001</waarde>
+                           <omschrijving>01-10-1995</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>02</nummer>
+                     <naam>Ouder1</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>1412541474</waarde>
+                           <omschrijving>1412541474</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0120</nummer>
+                           <naam>BSN</naam>
+                           <waarde>141254142</waarde>
+                           <omschrijving>141254142</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Ria</waarde>
+                           <omschrijving>Ria</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0230</nummer>
+                           <naam>Voorvoegsels geslachtsnaam</naam>
+                           <waarde>van</waarde>
+                           <omschrijving>van</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Amstel</waarde>
+                           <omschrijving>Amstel</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19420812</waarde>
+                           <omschrijving>12-08-1942</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>1811</waarde>
+                           <omschrijving>1811</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>6030</waarde>
+                           <omschrijving>Nederland</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0410</nummer>
+                           <naam>Geslachtsaanduiding</naam>
+                           <waarde>V</waarde>
+                           <omschrijving>Vrouw</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6210</nummer>
+                           <naam>Datum ingang fam.rechtelijke betrekking</naam>
+                           <waarde>19650612</waarde>
+                           <omschrijving>12-06-1965</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0226</waarde>
+                           <omschrijving>Duiven</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>19940501</waarde>
+                           <omschrijving>01-05-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>PK</waarde>
+                           <omschrijving>PK</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19650612</waarde>
+                           <omschrijving>12-06-1965</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19951001</waarde>
+                           <omschrijving>01-10-1995</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>03</nummer>
+                     <naam>Ouder2</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>8148590956</waarde>
+                           <omschrijving>8148590956</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0120</nummer>
+                           <naam>BSN</naam>
+                           <waarde>814859094</waarde>
+                           <omschrijving>814859094</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Piet</waarde>
+                           <omschrijving>Piet</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Verstraten</waarde>
+                           <omschrijving>Verstraten</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19390315</waarde>
+                           <omschrijving>15-03-1939</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>0202</waarde>
+                           <omschrijving>Arnhem</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>6030</waarde>
+                           <omschrijving>Nederland</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0410</nummer>
+                           <naam>Geslachtsaanduiding</naam>
+                           <waarde>M</waarde>
+                           <omschrijving>Man</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6210</nummer>
+                           <naam>Datum ingang fam.rechtelijke betrekking</naam>
+                           <waarde>19650612</waarde>
+                           <omschrijving>12-06-1965</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0226</waarde>
+                           <omschrijving>Duiven</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>19940501</waarde>
+                           <omschrijving>01-05-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>PK</waarde>
+                           <omschrijving>PK</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19650612</waarde>
+                           <omschrijving>12-06-1965</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19951001</waarde>
+                           <omschrijving>01-10-1995</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>04</nummer>
+                     <naam>Nationaliteit</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0510</nummer>
+                           <naam>Nationaliteit</naam>
+                           <waarde>0001</waarde>
+                           <omschrijving>Nederlandse</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6310</nummer>
+                           <naam>Reden opname nationaliteit</naam>
+                           <waarde>014</waarde>
+                           <omschrijving>Wet op het Nederlanderschap 1892, art. 8b</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19650612</waarde>
+                           <omschrijving>12-06-1965</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19940501</waarde>
+                           <omschrijving>01-05-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>07</nummer>
+                     <naam>Inschrijving</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>6710</nummer>
+                           <naam>Datum opschorting bijhouding</naam>
+                           <waarde>20140702</waarde>
+                           <omschrijving>02-07-2014</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6720</nummer>
+                           <naam>Reden opschorting bijhouding</naam>
+                           <waarde>E</waarde>
+                           <omschrijving>Emigratie</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6810</nummer>
+                           <naam>Datum eerste inschrijving</naam>
+                           <waarde>19940501</waarde>
+                           <omschrijving>01-05-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6910</nummer>
+                           <naam>Gemeente waar de PK zich bevindt</naam>
+                           <waarde>0226</waarde>
+                           <omschrijving>Duiven</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7010</nummer>
+                           <naam>Indicatie geheim</naam>
+                           <waarde>2</waarde>
+                           <omschrijving>Niet aan kerken</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8710</nummer>
+                           <naam>PK-gegevens volledig meegeconverteerd</naam>
+                           <waarde>P</waarde>
+                           <omschrijving>PK-gegevens volledig meegeconverteerd</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>08</nummer>
+                     <naam>Verblijfsplaats</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0910</nummer>
+                           <naam>Gemeente van inschrijving</naam>
+                           <waarde>1999</waarde>
+                           <omschrijving>Registratie Niet Ingezetenen (RNI)</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0920</nummer>
+                           <naam>Datum inschrijving</naam>
+                           <waarde>20140702</waarde>
+                           <omschrijving>02-07-2014</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1310</nummer>
+                           <naam>Land adres buitenland</naam>
+                           <waarde>5010</waarde>
+                           <omschrijving>België</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1320</nummer>
+                           <naam>Datum aanvang adres buitenland</naam>
+                           <waarde>20140702</waarde>
+                           <omschrijving>02-07-2014</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1330</nummer>
+                           <naam>Regel 1 adres buitenland</naam>
+                           <waarde>Rue du pomme 25</waarde>
+                           <omschrijving>Rue du pomme 25</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1340</nummer>
+                           <naam>Regel 2 adres buitenland</naam>
+                           <waarde>Bruxelles</waarde>
+                           <omschrijving>Bruxelles</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1350</nummer>
+                           <naam>Regel 3 adres buitenland</naam>
+                           <waarde>postcode 1000</waarde>
+                           <omschrijving>postcode 1000</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7210</nummer>
+                           <naam>Omschrijving aangifte adreshouding</naam>
+                           <waarde>I</waarde>
+                           <omschrijving>Ingeschrevene</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20140702</waarde>
+                           <omschrijving>02-07-2014</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20140702</waarde>
+                           <omschrijving>02-07-2014</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>58</nummer>
+                     <naam>Historisch Verblijfsplaats</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0910</nummer>
+                           <naam>Gemeente van inschrijving</naam>
+                           <waarde>1811</waarde>
+                           <omschrijving>1811</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0920</nummer>
+                           <naam>Datum inschrijving</naam>
+                           <waarde>20120305</waarde>
+                           <omschrijving>05-03-2012</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1010</nummer>
+                           <naam>Functie adres</naam>
+                           <waarde>W</waarde>
+                           <omschrijving>Woonadres</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1030</nummer>
+                           <naam>Datum aanvang adreshouding</naam>
+                           <waarde>20120305</waarde>
+                           <omschrijving>05-03-2012</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1110</nummer>
+                           <naam>Straatnaam</naam>
+                           <waarde>Burgemeester Röellstr</waarde>
+                           <omschrijving>Burgemeester Röellstr</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1115</nummer>
+                           <naam>Naam openbare ruimte</naam>
+                           <waarde>Burgemeester Röellstraat</waarde>
+                           <omschrijving>Burgemeester Röellstraat</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1120</nummer>
+                           <naam>Huisnummer</naam>
+                           <waarde>20</waarde>
+                           <omschrijving>20</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1160</nummer>
+                           <naam>Postcode</naam>
+                           <waarde>1064BN</waarde>
+                           <omschrijving>1064BN</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1170</nummer>
+                           <naam>Woonplaatsnaam</naam>
+                           <waarde>Snellendam</waarde>
+                           <omschrijving>Snellendam</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1180</nummer>
+                           <naam>Identificatiecode verblijfplaats</naam>
+                           <waarde>1811011200020001</waarde>
+                           <omschrijving>1811011200020001</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1190</nummer>
+                           <naam>Identificatiecode nummeraanduiding</naam>
+                           <waarde>1811201200020001</waarde>
+                           <omschrijving>1811201200020001</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7210</nummer>
+                           <naam>Omschrijving aangifte adreshouding</naam>
+                           <waarde>I</waarde>
+                           <omschrijving>Ingeschrevene</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20120305</waarde>
+                           <omschrijving>05-03-2012</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20120305</waarde>
+                           <omschrijving>05-03-2012</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>58</nummer>
+                     <naam>Historisch Verblijfsplaats</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0910</nummer>
+                           <naam>Gemeente van inschrijving</naam>
+                           <waarde>0226</waarde>
+                           <omschrijving>Duiven</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0920</nummer>
+                           <naam>Datum inschrijving</naam>
+                           <waarde>19920105</waarde>
+                           <omschrijving>05-01-1992</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1010</nummer>
+                           <naam>Functie adres</naam>
+                           <waarde>W</waarde>
+                           <omschrijving>Woonadres</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1030</nummer>
+                           <naam>Datum aanvang adreshouding</naam>
+                           <waarde>19920105</waarde>
+                           <omschrijving>05-01-1992</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1110</nummer>
+                           <naam>Straatnaam</naam>
+                           <waarde>Zonegge</waarde>
+                           <omschrijving>Zonegge</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1120</nummer>
+                           <naam>Huisnummer</naam>
+                           <waarde>1</waarde>
+                           <omschrijving>1</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1160</nummer>
+                           <naam>Postcode</naam>
+                           <waarde>6901KT</waarde>
+                           <omschrijving>6901KT</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7210</nummer>
+                           <naam>Omschrijving aangifte adreshouding</naam>
+                           <waarde>A</waarde>
+                           <omschrijving>Ambtshalve</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19920105</waarde>
+                           <omschrijving>05-01-1992</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19940501</waarde>
+                           <omschrijving>01-05-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>58</nummer>
+                     <naam>Historisch Verblijfsplaats</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0910</nummer>
+                           <naam>Gemeente van inschrijving</naam>
+                           <waarde>0202</waarde>
+                           <omschrijving>Arnhem</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0920</nummer>
+                           <naam>Datum inschrijving</naam>
+                           <waarde>19840615</waarde>
+                           <omschrijving>15-06-1984</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1010</nummer>
+                           <naam>Functie adres</naam>
+                           <waarde>W</waarde>
+                           <omschrijving>Woonadres</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1030</nummer>
+                           <naam>Datum aanvang adreshouding</naam>
+                           <waarde>19840615</waarde>
+                           <omschrijving>15-06-1984</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1110</nummer>
+                           <naam>Straatnaam</naam>
+                           <waarde>Zonnebloemstraat</waarde>
+                           <omschrijving>Zonnebloemstraat</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1120</nummer>
+                           <naam>Huisnummer</naam>
+                           <waarde>10</waarde>
+                           <omschrijving>10</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1160</nummer>
+                           <naam>Postcode</naam>
+                           <waarde>6841BH</waarde>
+                           <omschrijving>6841BH</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7210</nummer>
+                           <naam>Omschrijving aangifte adreshouding</naam>
+                           <waarde>A</waarde>
+                           <omschrijving>Ambtshalve</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19840615</waarde>
+                           <omschrijving>15-06-1984</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19940501</waarde>
+                           <omschrijving>01-05-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>58</nummer>
+                     <naam>Historisch Verblijfsplaats</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0910</nummer>
+                           <naam>Gemeente van inschrijving</naam>
+                           <waarde>0363</waarde>
+                           <omschrijving>Amsterdam</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0920</nummer>
+                           <naam>Datum inschrijving</naam>
+                           <waarde>19650612</waarde>
+                           <omschrijving>12-06-1965</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1010</nummer>
+                           <naam>Functie adres</naam>
+                           <waarde>W</waarde>
+                           <omschrijving>Woonadres</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1030</nummer>
+                           <naam>Datum aanvang adreshouding</naam>
+                           <waarde>19650612</waarde>
+                           <omschrijving>12-06-1965</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1110</nummer>
+                           <naam>Straatnaam</naam>
+                           <waarde>Eerste Anjeliersdwstr</waarde>
+                           <omschrijving>Eerste Anjeliersdwstr</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1120</nummer>
+                           <naam>Huisnummer</naam>
+                           <waarde>35</waarde>
+                           <omschrijving>35</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1160</nummer>
+                           <naam>Postcode</naam>
+                           <waarde>1015NR</waarde>
+                           <omschrijving>1015NR</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7210</nummer>
+                           <naam>Omschrijving aangifte adreshouding</naam>
+                           <waarde>A</waarde>
+                           <omschrijving>Ambtshalve</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19650612</waarde>
+                           <omschrijving>12-06-1965</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19940501</waarde>
+                           <omschrijving>01-05-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>09</nummer>
+                     <naam>Kind</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>1234567890</waarde>
+                           <omschrijving>1234567890</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0120</nummer>
+                           <naam>BSN</naam>
+                           <waarde>123456789</waarde>
+                           <omschrijving>123456789</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Pietje</waarde>
+                           <omschrijving>Pietje</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Verstraten</waarde>
+                           <omschrijving>Verstraten</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19941130</waarde>
+                           <omschrijving>30-11-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>0299</waarde>
+                           <omschrijving>Zevenaar</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>6030</waarde>
+                           <omschrijving>Nederland</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0226</waarde>
+                           <omschrijving>Duiven</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>19941201</waarde>
+                           <omschrijving>01-12-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>PL gerelateerde</waarde>
+                           <omschrijving>PL gerelateerde</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19941201</waarde>
+                           <omschrijving>01-12-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19941201</waarde>
+                           <omschrijving>01-12-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>59</nummer>
+                     <naam>Historisch Kind</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>1234567890</waarde>
+                           <omschrijving>1234567890</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Pietje</waarde>
+                           <omschrijving>Pietje</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Verstraten</waarde>
+                           <omschrijving>Verstraten</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19941130</waarde>
+                           <omschrijving>30-11-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>0299</waarde>
+                           <omschrijving>Zevenaar</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>6030</waarde>
+                           <omschrijving>Nederland</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8110</nummer>
+                           <naam>Registergemeente akte</naam>
+                           <waarde>0299</waarde>
+                           <omschrijving>Zevenaar</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8120</nummer>
+                           <naam>Aktenummer</naam>
+                           <waarde>1 A1106</waarde>
+                           <omschrijving>1 A1106</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19941130</waarde>
+                           <omschrijving>30-11-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19941130</waarde>
+                           <omschrijving>30-11-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>09</nummer>
+                     <naam>Kind</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>3927060575</waarde>
+                           <omschrijving>3927060575</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0120</nummer>
+                           <naam>BSN</naam>
+                           <waarde>392706052</waarde>
+                           <omschrijving>392706052</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Marietje</waarde>
+                           <omschrijving>Marietje</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Verstraten</waarde>
+                           <omschrijving>Verstraten</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19941129</waarde>
+                           <omschrijving>29-11-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>0299</waarde>
+                           <omschrijving>Zevenaar</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>6030</waarde>
+                           <omschrijving>Nederland</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0226</waarde>
+                           <omschrijving>Duiven</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>19941201</waarde>
+                           <omschrijving>01-12-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>PL gerelateerde</waarde>
+                           <omschrijving>PL gerelateerde</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19941201</waarde>
+                           <omschrijving>01-12-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19941201</waarde>
+                           <omschrijving>01-12-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>59</nummer>
+                     <naam>Historisch Kind</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>3927060575</waarde>
+                           <omschrijving>3927060575</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Marietje</waarde>
+                           <omschrijving>Marietje</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Verstraten</waarde>
+                           <omschrijving>Verstraten</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19941129</waarde>
+                           <omschrijving>29-11-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>0299</waarde>
+                           <omschrijving>Zevenaar</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>6030</waarde>
+                           <omschrijving>Nederland</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8110</nummer>
+                           <naam>Registergemeente akte</naam>
+                           <waarde>0299</waarde>
+                           <omschrijving>Zevenaar</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8120</nummer>
+                           <naam>Aktenummer</naam>
+                           <waarde>1 A1105</waarde>
+                           <omschrijving>1 A1105</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19941129</waarde>
+                           <omschrijving>29-11-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19941129</waarde>
+                           <omschrijving>29-11-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>12</nummer>
+                     <naam>Reisdocument</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>3510</nummer>
+                           <naam>Soort reisdocument</naam>
+                           <waarde>PN</waarde>
+                           <omschrijving>Nationaal paspoort</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3520</nummer>
+                           <naam>Nummer reisdocument</naam>
+                           <waarde>NM1260784</waarde>
+                           <omschrijving>NM1260784</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3530</nummer>
+                           <naam>Datum uitgifte reisdocument</naam>
+                           <waarde>20110503</waarde>
+                           <omschrijving>03-05-2011</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3540</nummer>
+                           <naam>Autoriteit afgifte reisdocument</naam>
+                           <waarde>B0226</waarde>
+                           <omschrijving>B0226</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3550</nummer>
+                           <naam>Datum einde geldigheid reisdocument</naam>
+                           <waarde>20160503</waarde>
+                           <omschrijving>03-05-2016</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0226</waarde>
+                           <omschrijving>Duiven</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>20110510</waarde>
+                           <omschrijving>10-05-2011</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>Aanvraagformulier reisdocument</waarde>
+                           <omschrijving>Aanvraagformulier reisdocument</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20110503</waarde>
+                           <omschrijving>03-05-2011</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20110510</waarde>
+                           <omschrijving>10-05-2011</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>12</nummer>
+                     <naam>Reisdocument</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>3510</nummer>
+                           <naam>Soort reisdocument</naam>
+                           <waarde>PN</waarde>
+                           <omschrijving>Nationaal paspoort</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3520</nummer>
+                           <naam>Nummer reisdocument</naam>
+                           <waarde>NA1260787</waarde>
+                           <omschrijving>NA1260787</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3530</nummer>
+                           <naam>Datum uitgifte reisdocument</naam>
+                           <waarde>20061229</waarde>
+                           <omschrijving>29-12-2006</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3540</nummer>
+                           <naam>Autoriteit afgifte reisdocument</naam>
+                           <waarde>B0226</waarde>
+                           <omschrijving>B0226</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3550</nummer>
+                           <naam>Datum einde geldigheid reisdocument</naam>
+                           <waarde>20111229</waarde>
+                           <omschrijving>29-12-2011</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3560</nummer>
+                           <naam>Datum inhouding/vermissing reisdocument</naam>
+                           <waarde>20110503</waarde>
+                           <omschrijving>03-05-2011</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3570</nummer>
+                           <naam>Aand. inhouding/vermissing reisdocument</naam>
+                           <waarde>V</waarde>
+                           <omschrijving>Vermist</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0226</waarde>
+                           <omschrijving>Duiven</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>20061229</waarde>
+                           <omschrijving>29-12-2006</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>aanvraagformulier</waarde>
+                           <omschrijving>aanvraagformulier</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20110503</waarde>
+                           <omschrijving>03-05-2011</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20110503</waarde>
+                           <omschrijving>03-05-2011</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+               </categorieen>
+            </persoon>
+            <persoon>
+               <categorieen>
+                  <categorie>
+                     <nummer>01</nummer>
+                     <naam>Persoon</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>1870385363</waarde>
+                           <omschrijving>1870385363</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0120</nummer>
+                           <naam>BSN</naam>
+                           <waarde>302953917</waarde>
+                           <omschrijving>302953917</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Nasier</waarde>
+                           <omschrijving>Nasier</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Boeddhoe</waarde>
+                           <omschrijving>Boeddhoe</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19500919</waarde>
+                           <omschrijving>19-09-1950</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>Amritsar</waarde>
+                           <omschrijving>Amritsar</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>7046</waarde>
+                           <omschrijving>India</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0410</nummer>
+                           <naam>Geslachtsaanduiding</naam>
+                           <waarde>M</waarde>
+                           <omschrijving>Man</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6110</nummer>
+                           <naam>Aanduiding naamgebruik</naam>
+                           <waarde>E</waarde>
+                           <omschrijving>Eigen naam</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>19940310</waarde>
+                           <omschrijving>10-03-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>PKA</waarde>
+                           <omschrijving>PKA</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19500919</waarde>
+                           <omschrijving>19-09-1950</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19951001</waarde>
+                           <omschrijving>01-10-1995</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>02</nummer>
+                     <naam>Ouder1</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Indira</waarde>
+                           <omschrijving>Indira</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Chaterjee</waarde>
+                           <omschrijving>Chaterjee</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>00000000</waarde>
+                           <omschrijving>00-00-0000</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>Amritsar</waarde>
+                           <omschrijving>Amritsar</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>7046</waarde>
+                           <omschrijving>India</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0410</nummer>
+                           <naam>Geslachtsaanduiding</naam>
+                           <waarde>V</waarde>
+                           <omschrijving>Vrouw</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6210</nummer>
+                           <naam>Datum ingang fam.rechtelijke betrekking</naam>
+                           <waarde>19500919</waarde>
+                           <omschrijving>19-09-1950</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>19940310</waarde>
+                           <omschrijving>10-03-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>PK</waarde>
+                           <omschrijving>PK</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19500919</waarde>
+                           <omschrijving>19-09-1950</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19940310</waarde>
+                           <omschrijving>10-03-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>03</nummer>
+                     <naam>Ouder2</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Panda</waarde>
+                           <omschrijving>Panda</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Boeddhoe</waarde>
+                           <omschrijving>Boeddhoe</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19300703</waarde>
+                           <omschrijving>03-07-1930</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>Amritsar</waarde>
+                           <omschrijving>Amritsar</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>7046</waarde>
+                           <omschrijving>India</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0410</nummer>
+                           <naam>Geslachtsaanduiding</naam>
+                           <waarde>M</waarde>
+                           <omschrijving>Man</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6210</nummer>
+                           <naam>Datum ingang fam.rechtelijke betrekking</naam>
+                           <waarde>19500919</waarde>
+                           <omschrijving>19-09-1950</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>19940310</waarde>
+                           <omschrijving>10-03-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>PK</waarde>
+                           <omschrijving>PK</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19500919</waarde>
+                           <omschrijving>19-09-1950</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19940310</waarde>
+                           <omschrijving>10-03-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>04</nummer>
+                     <naam>Nationaliteit</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0510</nummer>
+                           <naam>Nationaliteit</naam>
+                           <waarde>0312</waarde>
+                           <omschrijving>Indiase</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6310</nummer>
+                           <naam>Reden opname nationaliteit</naam>
+                           <waarde>301</waarde>
+                           <omschrijving>Vaststelling bezit vreemde nationaliteit</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8210</nummer>
+                           <naam>Gemeente document</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8220</nummer>
+                           <naam>Datum document</naam>
+                           <waarde>19940310</waarde>
+                           <omschrijving>10-03-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8230</nummer>
+                           <naam>Beschrijving document</naam>
+                           <waarde>PK</waarde>
+                           <omschrijving>PK</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19500919</waarde>
+                           <omschrijving>19-09-1950</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19940310</waarde>
+                           <omschrijving>10-03-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>05</nummer>
+                     <naam>Huwelijk/geregistreerd partnerschap</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>5689279785</waarde>
+                           <omschrijving>5689279785</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0120</nummer>
+                           <naam>BSN</naam>
+                           <waarde>300545927</waarde>
+                           <omschrijving>300545927</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Sherida</waarde>
+                           <omschrijving>Sherida</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Malhoe</waarde>
+                           <omschrijving>Malhoe</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19500101</waarde>
+                           <omschrijving>01-01-1950</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>Paramaribo</waarde>
+                           <omschrijving>Paramaribo</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>5007</waarde>
+                           <omschrijving>Suriname</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0410</nummer>
+                           <naam>Geslachtsaanduiding</naam>
+                           <waarde>V</waarde>
+                           <omschrijving>Vrouw</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0710</nummer>
+                           <naam>Datum ontbinding huwelijk/partnerschap</naam>
+                           <waarde>20000308</waarde>
+                           <omschrijving>08-03-2000</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0720</nummer>
+                           <naam>Plaats ontbinding huwelijk/partnerschap</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0730</nummer>
+                           <naam>Land ontbinding huwelijk/partnerschap</naam>
+                           <waarde>6030</waarde>
+                           <omschrijving>Nederland</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0740</nummer>
+                           <naam>Reden ontbinding huwelijk/partnerschap</naam>
+                           <waarde>S</waarde>
+                           <omschrijving>Echtsch of huw.ontb na sch van tfl en bed/eindigen partnersch door ovk of ontb</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1510</nummer>
+                           <naam>Soort verbintenis</naam>
+                           <waarde>P</waarde>
+                           <omschrijving>Geregistreerd partnerschap</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8110</nummer>
+                           <naam>Registergemeente akte</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8120</nummer>
+                           <naam>Aktenummer</naam>
+                           <waarde>5 B0040</waarde>
+                           <omschrijving>5 B0040</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20000308</waarde>
+                           <omschrijving>08-03-2000</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20000308</waarde>
+                           <omschrijving>08-03-2000</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>55</nummer>
+                     <naam>Historisch Huwelijk/geregistreerd partnerschap</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0110</nummer>
+                           <naam>A-nummer</naam>
+                           <waarde>5689279785</waarde>
+                           <omschrijving>5689279785</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0120</nummer>
+                           <naam>BSN</naam>
+                           <waarde>300545927</waarde>
+                           <omschrijving>300545927</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0210</nummer>
+                           <naam>Voornamen</naam>
+                           <waarde>Sherida</waarde>
+                           <omschrijving>Sherida</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0240</nummer>
+                           <naam>Geslachtsnaam</naam>
+                           <waarde>Malhoe</waarde>
+                           <omschrijving>Malhoe</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0310</nummer>
+                           <naam>Geboortedatum</naam>
+                           <waarde>19500101</waarde>
+                           <omschrijving>01-01-1950</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0320</nummer>
+                           <naam>Geboorteplaats</naam>
+                           <waarde>Paramaribo</waarde>
+                           <omschrijving>Paramaribo</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0330</nummer>
+                           <naam>Geboorteland</naam>
+                           <waarde>5007</waarde>
+                           <omschrijving>Suriname</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0410</nummer>
+                           <naam>Geslachtsaanduiding</naam>
+                           <waarde>V</waarde>
+                           <omschrijving>Vrouw</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0610</nummer>
+                           <naam>Datum huwelijk/partnerschap</naam>
+                           <waarde>19980201</waarde>
+                           <omschrijving>01-02-1998</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0620</nummer>
+                           <naam>Plaats huwelijk/partnerschap</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0630</nummer>
+                           <naam>Land huwelijk/partnerschap</naam>
+                           <waarde>6030</waarde>
+                           <omschrijving>Nederland</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1510</nummer>
+                           <naam>Soort verbintenis</naam>
+                           <waarde>P</waarde>
+                           <omschrijving>Geregistreerd partnerschap</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8110</nummer>
+                           <naam>Registergemeente akte</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8120</nummer>
+                           <naam>Aktenummer</naam>
+                           <waarde>5 A0040</waarde>
+                           <omschrijving>5 A0040</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19980201</waarde>
+                           <omschrijving>01-02-1998</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19980201</waarde>
+                           <omschrijving>01-02-1998</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>07</nummer>
+                     <naam>Inschrijving</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>6810</nummer>
+                           <naam>Datum eerste inschrijving</naam>
+                           <waarde>19940310</waarde>
+                           <omschrijving>10-03-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>6910</nummer>
+                           <naam>Gemeente waar de PK zich bevindt</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7010</nummer>
+                           <naam>Indicatie geheim</naam>
+                           <waarde>0</waarde>
+                           <omschrijving>Geen beperking</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8710</nummer>
+                           <naam>PK-gegevens volledig meegeconverteerd</naam>
+                           <waarde>P</waarde>
+                           <omschrijving>PK-gegevens volledig meegeconverteerd</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>08</nummer>
+                     <naam>Verblijfsplaats</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0910</nummer>
+                           <naam>Gemeente van inschrijving</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0920</nummer>
+                           <naam>Datum inschrijving</naam>
+                           <waarde>19980201</waarde>
+                           <omschrijving>01-02-1998</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1010</nummer>
+                           <naam>Functie adres</naam>
+                           <waarde>W</waarde>
+                           <omschrijving>Woonadres</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1030</nummer>
+                           <naam>Datum aanvang adreshouding</naam>
+                           <waarde>20000228</waarde>
+                           <omschrijving>28-02-2000</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1110</nummer>
+                           <naam>Straatnaam</naam>
+                           <waarde>Atjehstraat</waarde>
+                           <omschrijving>Atjehstraat</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1115</nummer>
+                           <naam>Naam openbare ruimte</naam>
+                           <waarde>Atjehstraat</waarde>
+                           <omschrijving>Atjehstraat</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1120</nummer>
+                           <naam>Huisnummer</naam>
+                           <waarde>137</waarde>
+                           <omschrijving>137</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1160</nummer>
+                           <naam>Postcode</naam>
+                           <waarde>2585VN</waarde>
+                           <omschrijving>2585VN</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1170</nummer>
+                           <naam>Woonplaatsnaam</naam>
+                           <waarde>'s-Gravenhage</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1180</nummer>
+                           <naam>Identificatiecode verblijfplaats</naam>
+                           <waarde>0518010070137001</waarde>
+                           <omschrijving>0518010070137001</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1190</nummer>
+                           <naam>Identificatiecode nummeraanduiding</naam>
+                           <waarde>0518200070137001</waarde>
+                           <omschrijving>0518200070137001</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1410</nummer>
+                           <naam>Land vanwaar ingeschreven</naam>
+                           <waarde>7046</waarde>
+                           <omschrijving>India</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1420</nummer>
+                           <naam>Datum vestiging in Nederland</naam>
+                           <waarde>19900808</waarde>
+                           <omschrijving>08-08-1990</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7210</nummer>
+                           <naam>Omschrijving aangifte adreshouding</naam>
+                           <waarde>T</waarde>
+                           <omschrijving>Technische wijziging i.v.m. BAG</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20091101</waarde>
+                           <omschrijving>01-11-2009</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20091101</waarde>
+                           <omschrijving>01-11-2009</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>58</nummer>
+                     <naam>Historisch Verblijfsplaats</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0910</nummer>
+                           <naam>Gemeente van inschrijving</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0920</nummer>
+                           <naam>Datum inschrijving</naam>
+                           <waarde>19980201</waarde>
+                           <omschrijving>01-02-1998</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1010</nummer>
+                           <naam>Functie adres</naam>
+                           <waarde>W</waarde>
+                           <omschrijving>Woonadres</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1030</nummer>
+                           <naam>Datum aanvang adreshouding</naam>
+                           <waarde>20000228</waarde>
+                           <omschrijving>28-02-2000</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1110</nummer>
+                           <naam>Straatnaam</naam>
+                           <waarde>Atjehstraat</waarde>
+                           <omschrijving>Atjehstraat</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1120</nummer>
+                           <naam>Huisnummer</naam>
+                           <waarde>137</waarde>
+                           <omschrijving>137</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1160</nummer>
+                           <naam>Postcode</naam>
+                           <waarde>2585VN</waarde>
+                           <omschrijving>2585VN</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1410</nummer>
+                           <naam>Land vanwaar ingeschreven</naam>
+                           <waarde>7046</waarde>
+                           <omschrijving>India</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1420</nummer>
+                           <naam>Datum vestiging in Nederland</naam>
+                           <waarde>19900808</waarde>
+                           <omschrijving>08-08-1990</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7210</nummer>
+                           <naam>Omschrijving aangifte adreshouding</naam>
+                           <waarde>A</waarde>
+                           <omschrijving>Ambtshalve</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20000228</waarde>
+                           <omschrijving>28-02-2000</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20000301</waarde>
+                           <omschrijving>01-03-2000</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>58</nummer>
+                     <naam>Historisch Verblijfsplaats</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0910</nummer>
+                           <naam>Gemeente van inschrijving</naam>
+                           <waarde>0518</waarde>
+                           <omschrijving>'s-Gravenhage</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0920</nummer>
+                           <naam>Datum inschrijving</naam>
+                           <waarde>19980201</waarde>
+                           <omschrijving>01-02-1998</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1010</nummer>
+                           <naam>Functie adres</naam>
+                           <waarde>W</waarde>
+                           <omschrijving>Woonadres</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1030</nummer>
+                           <naam>Datum aanvang adreshouding</naam>
+                           <waarde>19980201</waarde>
+                           <omschrijving>01-02-1998</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1110</nummer>
+                           <naam>Straatnaam</naam>
+                           <waarde>Erasmusweg</waarde>
+                           <omschrijving>Erasmusweg</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1120</nummer>
+                           <naam>Huisnummer</naam>
+                           <waarde>143</waarde>
+                           <omschrijving>143</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1160</nummer>
+                           <naam>Postcode</naam>
+                           <waarde>2725HR</waarde>
+                           <omschrijving>2725HR</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1410</nummer>
+                           <naam>Land vanwaar ingeschreven</naam>
+                           <waarde>7046</waarde>
+                           <omschrijving>India</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1420</nummer>
+                           <naam>Datum vestiging in Nederland</naam>
+                           <waarde>19900808</waarde>
+                           <omschrijving>08-08-1990</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7210</nummer>
+                           <naam>Omschrijving aangifte adreshouding</naam>
+                           <waarde>P</waarde>
+                           <omschrijving>Echtgenoot/geregistreerd partner</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19980201</waarde>
+                           <omschrijving>01-02-1998</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19980203</waarde>
+                           <omschrijving>03-02-1998</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>58</nummer>
+                     <naam>Historisch Verblijfsplaats</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>0910</nummer>
+                           <naam>Gemeente van inschrijving</naam>
+                           <waarde>0974</waarde>
+                           <omschrijving>Susteren</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>0920</nummer>
+                           <naam>Datum inschrijving</naam>
+                           <waarde>19900808</waarde>
+                           <omschrijving>08-08-1990</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1010</nummer>
+                           <naam>Functie adres</naam>
+                           <waarde>W</waarde>
+                           <omschrijving>Woonadres</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1030</nummer>
+                           <naam>Datum aanvang adreshouding</naam>
+                           <waarde>19900808</waarde>
+                           <omschrijving>08-08-1990</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1110</nummer>
+                           <naam>Straatnaam</naam>
+                           <waarde>Abdijlaan</waarde>
+                           <omschrijving>Abdijlaan</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1120</nummer>
+                           <naam>Huisnummer</naam>
+                           <waarde>3</waarde>
+                           <omschrijving>3</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1160</nummer>
+                           <naam>Postcode</naam>
+                           <waarde>6114GV</waarde>
+                           <omschrijving>6114GV</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1410</nummer>
+                           <naam>Land vanwaar ingeschreven</naam>
+                           <waarde>7046</waarde>
+                           <omschrijving>India</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>1420</nummer>
+                           <naam>Datum vestiging in Nederland</naam>
+                           <waarde>19900808</waarde>
+                           <omschrijving>08-08-1990</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>7210</nummer>
+                           <naam>Omschrijving aangifte adreshouding</naam>
+                           <waarde>A</waarde>
+                           <omschrijving>Ambtshalve</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19900808</waarde>
+                           <omschrijving>08-08-1990</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>19940310</waarde>
+                           <omschrijving>10-03-1994</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>10</nummer>
+                     <naam>Verblijfstitel</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>3910</nummer>
+                           <naam>Aanduiding verblijfstitel</naam>
+                           <waarde>21</waarde>
+                           <omschrijving>Vw 2000 art. 8, onder a, vergunning regulier bepaalde tijd, arbeid vrij</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3920</nummer>
+                           <naam>Datum einde verblijfstitel</naam>
+                           <waarde>20150530</waarde>
+                           <omschrijving>30-05-2015</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3930</nummer>
+                           <naam>Ingangsdatum verblijfstitel</naam>
+                           <waarde>20100530</waarde>
+                           <omschrijving>30-05-2010</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20110130</waarde>
+                           <omschrijving>30-01-2011</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20110131</waarde>
+                           <omschrijving>31-01-2011</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>60</nummer>
+                     <naam>Historisch Verblijfstitel</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>3910</nummer>
+                           <naam>Aanduiding verblijfstitel</naam>
+                           <waarde>26</waarde>
+                           <omschrijving>Vw 2000 art. 8, onder c, vergunning asiel bepaalde tijd, arbeid vrij</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3920</nummer>
+                           <naam>Datum einde verblijfstitel</naam>
+                           <waarde>20110501</waarde>
+                           <omschrijving>01-05-2011</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3930</nummer>
+                           <naam>Ingangsdatum verblijfstitel</naam>
+                           <waarde>20060501</waarde>
+                           <omschrijving>01-05-2006</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20060715</waarde>
+                           <omschrijving>15-07-2006</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20060717</waarde>
+                           <omschrijving>17-07-2006</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>60</nummer>
+                     <naam>Historisch Verblijfstitel</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>3910</nummer>
+                           <naam>Aanduiding verblijfstitel</naam>
+                           <waarde>26</waarde>
+                           <omschrijving>Vw 2000 art. 8, onder c, vergunning asiel bepaalde tijd, arbeid vrij</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3920</nummer>
+                           <naam>Datum einde verblijfstitel</naam>
+                           <waarde>20060501</waarde>
+                           <omschrijving>01-05-2006</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3930</nummer>
+                           <naam>Ingangsdatum verblijfstitel</naam>
+                           <waarde>20010501</waarde>
+                           <omschrijving>01-05-2001</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>20010615</waarde>
+                           <omschrijving>15-06-2001</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20010618</waarde>
+                           <omschrijving>18-06-2001</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+                  <categorie>
+                     <nummer>60</nummer>
+                     <naam>Historisch Verblijfstitel</naam>
+                     <rubrieken>
+                        <rubriek>
+                           <nummer>3910</nummer>
+                           <naam>Aanduiding verblijfstitel</naam>
+                           <waarde>98</waarde>
+                           <omschrijving>geen verblijfstitel (meer)</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>3930</nummer>
+                           <naam>Ingangsdatum verblijfstitel</naam>
+                           <waarde>19940701</waarde>
+                           <omschrijving>01-07-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8510</nummer>
+                           <naam>Ingangsdatum geldigheid</naam>
+                           <waarde>19940701</waarde>
+                           <omschrijving>01-07-1994</omschrijving>
+                        </rubriek>
+                        <rubriek>
+                           <nummer>8610</nummer>
+                           <naam>Datum van opneming</naam>
+                           <waarde>20001115</waarde>
+                           <omschrijving>15-11-2000</omschrijving>
+                        </rubriek>
+                     </rubrieken>
+                  </categorie>
+               </categorieen>
+            </persoon>
+         </resultaten>
+      </ns2:gbavAntwoord>
+   </S:Body>
+</S:Envelope>

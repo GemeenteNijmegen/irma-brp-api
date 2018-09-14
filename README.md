@@ -1,7 +1,9 @@
 # irma-brp-api
-Api with transformation from/to local GBA and GBA-V endpoints
+Api die transformeert van lokale GBA of GBA-V van T&T naar een json bericht.
 
-/src contains 1 xslt used to transform a T&T GBA-V message to output later transformed to json, used in the issue site.
+/src bevat de xslt's die de transformatie verzorgen, inclusief wat logica om voorletters en achternaam goed samen te stellen.
 /sample contains some sample T&T GBA-V messages as test input for the xslt.
 
-v3
+Deze xslt's worden gebruikt in een applicatie gemaakt voor de Mulesoft ESB (https://www.mulesoft.com/platform/mule).
+De applicatie zelf wordt binnenkort ook gepubliceerd, maar is alleen bruikbaar als je over een Mule Enterprise licentie beschikt.
+Met wat aanpassingen is de applicatie ook geschikt te maken voor de opensource, en gratis te gebruiken, versie van Mulesoft.

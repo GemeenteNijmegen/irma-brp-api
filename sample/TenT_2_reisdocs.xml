@@ -2,10 +2,10 @@
    <S:Body>
       <ns2:gbavAntwoord xmlns:ns2="http://www.competent.nl/gbav/v1">
          <identificatie>
-            <indicatie>990022</indicatie>
+            <indicatie></indicatie>
             <interneAfnemer/>
-            <gebruiker>beheerder</gebruiker>
-            <profielNaam>autorisatie</profielNaam>
+            <gebruiker></gebruiker>
+            <profielNaam></profielNaam>
             <internKenmerk/>
          </identificatie>
          <resultaten>

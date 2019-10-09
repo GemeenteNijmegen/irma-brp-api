@@ -1,3 +1,5 @@
+# this repo is merged with https://github.com/GemeenteNijmegen/irma-brp-opladen
+
 # irma-brp-api
 Api die transformeert van lokale GBA of GBA-V van T&T naar een json bericht.
 
